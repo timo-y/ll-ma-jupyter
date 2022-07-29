@@ -1,0 +1,4 @@
+# Mac System
+.DS_Store
+# JuPyter Notebook
+.ipynb_checkpoints/*
